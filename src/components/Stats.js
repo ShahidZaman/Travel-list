@@ -3,6 +3,7 @@ export default function Stats({ items }) {
     return (
       <p className="stats">
         <em>Start adding some items to your packing list 🚀</em>
+        {/* <em>Start adding some items to your packing list</em> */}
       </p>
     );
 
